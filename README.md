@@ -1,35 +1,21 @@
-# Praktikum PAM M4 - My Profile App
+# Praktikum PAM M5 - Navigation App
 
 ## Deskripsi
 
-Aplikasi ini dibuat menggunakan Jetpack Compose untuk menampilkan halaman profil serta fitur edit profil menggunakan arsitektur MVVM dan StateFlow.
+Aplikasi ini merupakan pengembangan dari tugas sebelumnya dengan menambahkan fitur navigation menggunakan Jetpack Compose.
 
 ## Fitur
 
-* Menampilkan foto profil
-* Menampilkan nama dan bio
-* Informasi email
-* Nomor telepon
-* Lokasi
-* Form edit profil (nama dan bio)
-* Tombol Save untuk menyimpan perubahan
-* Dark mode toggle
+* Bottom Navigation (Notes, Favorites, Profile)
+* Notes Screen
+* Detail Screen
+* Profile Screen (Edit nama dan bio)
+* Dark Mode Toggle
 
-## Komponen Compose yang Digunakan
-
-* Column
-* Row
-* Box
-* Card
-* Text
-* Button
-* Image
-* OutlinedTextField
-* Switch
-
-## Screenshot Aplikasi
+## Screenshot
 
 ![Screenshot](screenshot1.png)
-![Screenshot](screenshot2.png)
-![Screenshot](screenshot3.png)
 
+## Video Demo
+
+https://link-video-kamu
