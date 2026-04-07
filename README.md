@@ -25,4 +25,4 @@ Aplikasi ini merupakan pengembangan dari tugas sebelumnya dengan menambahkan fit
 
 ## Video Demo
 
-
+https://youtu.be/lZ3YZHnT5oQ 
